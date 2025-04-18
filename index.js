@@ -26,3 +26,4 @@ const sendLineMessage = async () => {
 };
 
 sendLineMessage();
+//Add index.js for LINE bot message
